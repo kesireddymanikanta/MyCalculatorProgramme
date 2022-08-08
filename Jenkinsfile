@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent none
 	environment{
 		version="2.0"
 		some_name="jeff"
